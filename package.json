@@ -1,6 +1,6 @@
 {
   "name": "dot-pluck",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Javascript object getter.",
   "main": "index.js",
   "directories": {
